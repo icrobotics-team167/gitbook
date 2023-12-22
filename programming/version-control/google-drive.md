@@ -14,3 +14,4 @@ To help with our future organization, we created a New Season Template that can 
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-12-22 at 1.06.14 PM.png" alt="Screenshot of folders with names like Business, Media, Build, etc. that are used a season template"><figcaption><p>This is an example of our New Season Template, it was created based on common folders and groupings used in previous seasons</p></figcaption></figure>
 
+More information about Shared Drives available [here](https://support.google.com/a/users/answer/7212025?hl=en).
