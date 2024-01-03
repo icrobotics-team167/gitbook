@@ -1,7 +1,3 @@
----
-description: This section will go over the different parts of a typical FRC season.
----
-
 # Season Timeline
 
 ## Preseason <a href="#preseason" id="preseason"></a>
