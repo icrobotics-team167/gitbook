@@ -1,9 +1,3 @@
----
-description: >-
-  This page will include shortened curriculum ideas for hosting a LEGO robotics
-  camp in 1-hr, 3-hrs, and 1-day.
----
-
 # Mini Bots Camp
 
 Hosting a full week-long event can be difficult to coordinate and find volunteers for. Below are some shortened timelines that can be used for smaller events at libraries, schools, or on a weekend. Any LEGO challenge from the Junior Bots curriculum can be used for Mini Bots, but we prefer to do LEGO Sumo. More information about the challenge is listed below.
