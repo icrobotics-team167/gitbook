@@ -1,0 +1,17 @@
+# Girl Scouts Robotics Badge
+
+There are three robotics badges in the Robotics Journey for Brownie and Junior troops. This section covers an example curriculum that can be used to help troops get these badges with FIRST.
+
+### Badge Requirements
+
+To earn the Robotics Journey, there are 3 badges that troops must work through: Programming Robots, Designing Robots, and Showcasing Robots. This section breaks down the requirements for each badge. For the complete guides for these journeys please reference the following: [Brownies Guide](http://fairbanksgirlscouts.org/wp-content/uploads/2018/10/Brownie-Robotics-Badge-Requirements-all-3-download.pdf), [Juniors Guide](http://fairbanksgirlscouts.org/wp-content/uploads/2018/10/Junior-Robotics-Badge-Requirements-all-3-download.pdf).
+
+| Badge              | Brownies                                                                                                                                                                                                                                    | Juniors                                                                                                                                                                                                                                |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Programming Robots | <ol><li>Create a simple machine</li><li>Test your robot senses</li><li>Learn about programming</li><li>Try simple programming</li><li>Code a robot</li></ol>                                                                                | <ol><li>Learn how robots work</li><li>Discover the robot brain</li><li>Learn about programming</li><li>Try simple programming</li><li>Code a robot</li></ol>                                                                           |
+| Designing Robots   | <ol><li>Explore how robots imitate nature</li><li>Learn about the parts of a robot</li><li>Plan your robot</li><li>Create a prototype</li><li>Get feedback on your robot</li></ol>                                                          | <ol><li>Discover the future of robots</li><li>Determine your robot's expertise</li><li>Plan your robot</li><li>Create a prototype</li><li>Get feedback on your robot</li></ol>                                                         |
+| Showcasing Robots  | <ol><li>Create a presentation to share how you designed your robot</li><li>Tell others how you designed your robot</li><li>Learn more about robotics competitions</li><li>Learn about robotics teams</li><li>See robots in action</li></ol> | <ol><li>Create a presentation to share how you designed your robot</li><li>Tell others how you designed your robot</li><li>Learn about robotics competitions</li><li>Learn about robotics teams</li><li>See robots in action</li></ol> |
+
+### Meeting Structure
+
+Our team chose to breakdown the badge requirements over 3 meetings to maximize the amount of time that troops could work on each activity. Each meeting focused on a different badge and built on the previous one.
