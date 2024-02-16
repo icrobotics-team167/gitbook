@@ -19,6 +19,7 @@
     * [Designing Robots](outreach/girl-scouts-robotics-badge/designing-robots.md)
     * [Showcasing Robots](outreach/girl-scouts-robotics-badge/showcasing-robots.md)
   * [GoBabyGo Instructions](outreach/gobabygo-instructions.md)
+  * [FLL](outreach/fll.md)
 * [🏆 Awards](awards/README.md)
   * [Machine Creativity Awards](awards/machine-creativity-awards.md)
   * [Team Attribute Awards](awards/team-attribute-awards.md)
