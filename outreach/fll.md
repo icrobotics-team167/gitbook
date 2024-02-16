@@ -18,6 +18,12 @@ FLL Challenge is for kids ages 9-16 (Grades 4-8) and has  several parts. This di
 
 * Robot Game: Teams will design, build, and program a LEGO robot to navigate the game field and do tasks for points in a competition against other teams
 * Project: Teams will research a real world problem and come up with solutions, design, implement, and revise the project during the season; Finally sharing the project with the community. Teams will then show this project at events to Judges
-* Core Values: During events teams will have to demonstrate that they represent the core values of FIRST and will be given a task to work together on to demonstrate their team work and cohesion.
+* Judging: During a competition there is a period of 30 minutes in which teams will present to judges. This is broken up into sections
+  * Set Up (2 Minutes): Teams set up their robot and presentation
+  * Project Presentation (5 Minutes): Teams will present their projects to judges
+  * Project Questions (5 Minutes): Judges will ask team members about their projects
+  * Robot Questions (5 Minutes): Judges will ask about a teams robot, the designs, and the engineering process
+  * Core Values Questions (3 Minutes): Judges will ask teams about how they embody the FIRST Core Values in their team and their day-to-day lives
+  * Feedback (5 Minutes): Judges will provide feedback about the questions, including what they liked, and what to improve on. There will also be more in depth written feedback available after the competition.
 {% endtab %}
 {% endtabs %}
