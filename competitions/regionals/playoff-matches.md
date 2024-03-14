@@ -1,6 +1,6 @@
 # Playoff Matches
 
-Playoff matches function under a double elimination bracket. Seen below
+Playoff matches function under a double elimination bracket. Included below.
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>The playoff bracket</p></figcaption></figure>
 

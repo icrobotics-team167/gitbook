@@ -1,6 +1,6 @@
 # Alliance Selection
 
-Alliance selection occurs before the playoff matches. During this the top 8 alliances are chosen
+Alliance selection occurs before the playoff matches. During this the top 8 alliances are chosen.
 
 The captains of each alliance are chosen from the top 8 ranked teams from qualifications, they then choose an alliance from 1st alliance to 8th alliance. The 8th alliance then chooses a second partner and then alliances choose a second partner from 8th to 1st alliances.
 

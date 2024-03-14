@@ -1,7 +1,7 @@
 ---
 description: >-
   There are 2 types of competitions: Regional events and District Events. This
-  chapter will discuss the regional style of competition
+  chapter will discuss the regional style of competition.
 ---
 
 # Regionals
