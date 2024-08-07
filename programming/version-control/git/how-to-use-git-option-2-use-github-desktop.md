@@ -25,5 +25,5 @@ If you are making a new repo, click on File -> New Repository and select the fol
 
 The UI for GitHub Desktop looks something like this, once you clone a repository:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>The user interface of GitHub Desktop.</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>The user interface of GitHub Desktop.</p></figcaption></figure>
 
