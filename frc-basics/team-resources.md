@@ -6,7 +6,12 @@ The FRC community is full of wonderful resources made available for free. These 
 
 If you don't want to look at all these resources, the most important ones to check out are the official resources, Chief Delphi, and The Blue Alliance.
 
-### [Official Resources](https://docs.iowacityrobotics.org/chapter-01-frc-basics/03-frc-resources.html#official-resources) <a href="#official-resources" id="official-resources"></a>
+### General Resources <a href="#official-resources" id="official-resources"></a>
+
+* [**Robotics Glossary**](https://www.qualtrics.com/blog/robotics-terms/)\
+  This glossary of general robotics terms offers a great launching off point for STEM activities or introductory research. _(contribution made by Boy Scout Eric P.)_
+
+### Official Resources <a href="#official-resources" id="official-resources"></a>
 
 * [**FRC Blog**](https://www.firstinspires.org/robotics/frc/blog/) \
   The FRC Blog contains official announcements from FIRST about FRC.
@@ -15,7 +20,7 @@ If you don't want to look at all these resources, the most important ones to che
 * [**Season Materials**](https://www.firstinspires.org/resource-library/frc/competition-manual-qa-system) \
   The season materials page has all the official documentation for the current season. This includes the game manual, the rule Q\&A system, season logos, and more.
 
-### [Community Resources](https://docs.iowacityrobotics.org/chapter-01-frc-basics/03-frc-resources.html#community-resources) <a href="#community-resources" id="community-resources"></a>
+### Community Resources <a href="#community-resources" id="community-resources"></a>
 
 * [**Chief Delphi**](https://www.chiefdelphi.com/) \
   Chief Delphi (CD) is a forum for all things related to FRC. It is among the most useful resources listed here. During the build season, CD is full of ideas, prototypes, code samples, etc. to help with robot design. Throughout the year, it contains interesting discussions about robotics, fundraising, STEM, and more.
@@ -30,7 +35,7 @@ If you don't want to look at all these resources, the most important ones to che
 * [**r/FRC**](https://www.reddit.com/r/FRC/) \
   The FRC subreddit is mostly just memes, but there is the occasional serious discussion.
 
-### [Team Resources](https://docs.iowacityrobotics.org/chapter-01-frc-basics/03-frc-resources.html#team-resources) <a href="#team-resources" id="team-resources"></a>
+### Team Resources <a href="#team-resources" id="team-resources"></a>
 
 * [**Citrus Circuits (1678)**](https://www.citruscircuits.org/fallworkshops.html) \
   The Citrus Circuits are an elite FRC team from Davis, California. Their website contains dozens of helpful workshops on topics like CAD, programming, strategy, scouting, fundraising, and outreach.
