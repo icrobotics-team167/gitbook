@@ -31,5 +31,6 @@
 * [Grant Opportunities | FIRST (firstinspires.org)](https://www.firstinspires.org/robotics/team-grants)
 * [Scholarship Search | FIRST (firstinspires.org)](https://www.firstinspires.org/scholarship-results)
 * [sponsorship-top-tips.pdf (theiet.org)](https://education.theiet.org/media/7220/sponsorship-top-tips.pdf)
+* [FLL Coaches Handbook (firstinspires.org)](https://chrome-extension/efaidnbmnnnibpcajpcglclefindmkaj/https://www.firstinspires.org/sites/default/files/uploads/resource\_library/fll/into-orbit/first-lego-league-coaches-handbook-20182019.pdf)
 * [FIRST Mentor/Coach Checklist (All Programs) ](https://www.firstinspires.org/resource-library/volunteer/mentor-coach-checklist)
 * [Start a FIRST LEGO League Team | FIRST (firstinspires.org)](https://www.firstinspires.org/robotics/fll/start-a-team)
