@@ -59,7 +59,7 @@
     * [Polymorphism](programming/java-programming/polymorphism.md)
     * [Arrays and Collections](programming/java-programming/arrays-and-collections.md)
     * [Miscellaneous](programming/java-programming/miscellaneous.md)
-  * [Programming in FRC](programming/programming-in-frc.md)
+  * [How to Solve Programming Problems](programming/how-to-solve-programming-problems.md)
   * [Version Control](programming/version-control/README.md)
     * [Google Drive](programming/version-control/google-drive.md)
     * [Git](programming/version-control/git/README.md)
