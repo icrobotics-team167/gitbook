@@ -60,6 +60,15 @@ The following are questions that Team 167 has been asked in judging. They may no
 * What is a challenge you overcame this season & how did you do it?
 * What challenges have you faced from the rapid growth your team has experienced?
 * Has your recent team growth made you feel better about your year-over-year progress and how do you think it will impact your experience in coming years?
+* You mentioned the West High Story, is that a newspaper or magazine?
+* What year did you create your FLL teams? Was that this year or last year?
+* Elaborate on the PopBot Swerve Initiative. How was this a cost saving measure for other teams?
+* Tell us about The Docs Project as a sustainability initiative.
+  * What has been the impact beyond our team?
+  * What struggles have you faced?
+  * How do you handle the administrative burden of such a large project?
+  * In order for others to benefit it must be searchable. Do you have stats on what information people are looking for?
+* How did you collaborate with education professionals in the creation of your preschool visit curriculum?
 
 ## Questions Collected from Other Teams
 
