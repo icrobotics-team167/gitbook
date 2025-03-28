@@ -27,5 +27,3 @@ The judging interview is the final stage of the Impact Award process and the onl
 * Judges will ask follow-up questions about your team's work and impact.
 * Practicing responses to common Q\&A questions (found on the next page) will help your team be prepared and confident.
 
-Would you like help refining your presentation or preparing for the Q\&A? 🚀
-

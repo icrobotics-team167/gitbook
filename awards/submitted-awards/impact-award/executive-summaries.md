@@ -2,14 +2,14 @@
 
 ## **Executive Summaries Overview**
 
-**Executive Summaries** are a series of **short-answer questions** provided by **FIRST**, focusing on team **demographics** and **outreach initiatives**. These summaries must be **submitted alongside the Impact Essay**.
+Executive Summaries are a series of short-answer questions provided by FIRST, focusing on team demographics and outreach initiatives. These summaries must be submitted alongside the Impact Essay.
 
 #### **Key Details**
 
-* The **questions change each year**, but the topics remain **consistent**.
-* Each response is **limited to 500 characters**, requiring **concise yet detailed answers**.
-* It is **essential** to mention outreach events **not covered in the Impact Essay**.
-* To maximize coverage, **avoid repeating the same event or project** across multiple answers.
+* The questions change each year, but the topics remain consistent.
+* Each response is limited to 500 characters, requiring concise yet detailed answers.
+* It is essential to mention outreach events not covered in the Impact Essay.
+* To maximize coverage, avoid repeating the same event or project across multiple answers.
 
 ***
 

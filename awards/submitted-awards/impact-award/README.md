@@ -2,11 +2,11 @@
 
 The Impact Award is the most prestigious award in FIRST Robotics Competition (FRC). It is presented to the team that best embodies FIRST’s core values and serves as a model for other teams.
 
-#### **Eligibility**
+### **Eligibility**
 
 Any team in its second season or beyond is eligible to submit for this award.
 
-#### **Submission Requirements**
+### **Submission Requirements**
 
 To compete for the Impact Award, teams must:
 
@@ -20,7 +20,7 @@ Your essay and executive summaries should highlight key aspects of your team, in
 * Outreach efforts
 * Initiatives your team has planned, attended, or executed
 
-#### **Judged Impact Interview**
+### **Judged Impact Interview**
 
 At the competition, teams will participate in a judged Impact interview, which includes:
 
