@@ -36,7 +36,7 @@ For the LEGO Sumo challenge, scouts must determine what kind of robot they want.
 
 ### Plan your robot
 
-Based on the expertise chosen, scouts are given paper and markers to draw out their robot designs. Using the pieces in the base EV3 kit provided, they are given time to plan out attachements to the base driving robot. For more information about the LEGO Sumo challenge, visit the [Mini Bots](../junior-bots-camps/mini-bots-camp.md) page of this project.
+Based on the expertise chosen, scouts are given paper and markers to draw out their robot designs. Using the pieces in the base EV3 kit provided, they are given time to plan out attachements to the base driving robot. For more information about the LEGO Sumo challenge, visit the [Mini Bots](../mini-bots-camp.md) page of this project.
 
 Students may want to work together to help them brainstorm and share ideas about their designs. Encourage them to use the robot vocabulary outlined in the badge guide.
 
