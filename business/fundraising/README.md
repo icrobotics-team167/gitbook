@@ -126,7 +126,7 @@ Tips:\
 
 In the past, our team used SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) for internal reflection and goal setting. This remains a valuable tool, especially for teams early in their strategic planning journey.\
 \
-However, we’ve since adopted the Barriers & Bridges Protocol, inspired by FRC 321 RoboLancers’ award-winning impact methodology.\
+However, we’ve since adopted the [Barriers & Bridges Protocol](https://docs.google.com/presentation/d/1OBx8W-Qu6CY4h04WGCHxKdJijk_bp5-NJ08FCCPcWCU/edit?usp=sharing), inspired by FRC 321 RoboLancers’ award-winning impact methodology.\
 \
 Why the Shift?\
 • Mission-driven: Keeps activities aligned with core purpose\
