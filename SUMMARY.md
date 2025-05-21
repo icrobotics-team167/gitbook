@@ -23,7 +23,7 @@
     * [Showcasing Robots](outreach/girl-scouts-robotics-badge/showcasing-robots.md)
   * [GoBabyGo Instructions](outreach/gobabygo-instructions.md)
   * [FIRST LEGO League](outreach/first-lego-league/README.md)
-    * [Team Quickstart Guide](outreach/first-lego-league/team-quickstart-guide.md)
+    * [FLL Team Quickstart Guide](outreach/first-lego-league/fll-team-quickstart-guide.md)
 * [🏆 Awards](awards/README.md)
   * [Machine Creativity Awards](awards/machine-creativity-awards.md)
   * [Team Attribute Awards](awards/team-attribute-awards.md)
