@@ -78,6 +78,7 @@
   * [Web Development](programming/web-development.md)
 * [📊 Scouting & Strategy](scouting-and-strategy.md)
   * [Basics of Scouting](scouting-and-strategy/basics-of-scouting.md)
+  * [Data Field Determination](scouting-and-strategy/data-field-determination.md)
 * [⚽ Competitions](competitions/README.md)
   * [Regionals](competitions/regionals/README.md)
     * [Setup & Practice Matches](competitions/regionals/setup-and-practice-matches.md)
