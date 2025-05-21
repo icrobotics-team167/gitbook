@@ -1,4 +1,4 @@
-# FLL Team Quickstart Guide
+# Team Quickstart Guide
 
 ## General FLL Resources
 
