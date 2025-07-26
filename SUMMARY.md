@@ -10,6 +10,7 @@
   * [Fundraising](business/fundraising/README.md)
     * [Alternative Fundraising Strategies](business/fundraising/alternative-fundraising-strategies.md)
     * [Guide for FIRST LEGO League Teams](business/fundraising/guide-for-first-lego-league-teams.md)
+    * [Bridges & Barriers Guiding Questions](business/fundraising/bridges-and-barriers-guiding-questions.md)
   * [Recruitment](business/recruitment.md)
 * [🏫 Outreach](outreach/README.md)
   * [Summer Camp Planning Guide](outreach/summer-camp-planning-guide.md)
