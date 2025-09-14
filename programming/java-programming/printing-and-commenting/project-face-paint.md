@@ -1,6 +1,6 @@
 # Project: Face Paint
 
-This project will test your skills using Repl, printing text to the console, and commenting your code. Since it is the first project of the chapter, it will be fairly brief.
+This project will test your skills using Java, printing text to the console, and commenting your code. Since it is the first project of the chapter, it will be fairly brief.
 
 #### Assignment
 
@@ -18,13 +18,13 @@ The goal of this project is to print the following image and caption to the cons
 A "drawing" of a face
 ```
 
-To begin, create a Repl called `FacePrinting`. Find a way to print the text to the console. Even though it is not actually necessary, make use of a mix of `println` and `print` statements to get practice with both. You will have to use a few escape sequences in this project. Also, be mindful of the whitespace in the text. For example, there is a blank line between the image and the caption.
+To begin, create a project called `FacePrinting`. Find a way to print the text to the console. Even though it is not actually necessary, make use of a mix of `println` and `print` statements to get practice with both. You will have to use a few escape sequences in this project. Also, be mindful of the whitespace in the text. For example, there is a blank line between the image and the caption.
 
 Add a multi-line comment at the beginning of your code that contains your name and grade in school. Then, use single-line comments to explain what part of the body is printed by each `println` and `print` statement.
 
 #### Output
 
-This embedded Repl illustrates what your program should print to the console once it works correctly. However, keep in mind that comments are part of this assignment too, so you might not be quite done just because your output looks like this.
+This embedded file illustrates what your program should print to the console once it works correctly. However, keep in mind that comments are part of this assignment too, so you might not be quite done just because your output looks like this.
 
 #### Reference Implementation
 
