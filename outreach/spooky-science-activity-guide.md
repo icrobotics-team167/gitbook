@@ -1,4 +1,4 @@
-# Spooky Science
+# Spooky Science Activity Guide
 
 Try three fun Halloween-themed STEM experiments at home!
 
