@@ -9,28 +9,114 @@ description: >-
 
 ## General Questions
 
-* How has FIRST changed you? Your team? Your school?
-* What team accomplishment makes you most proud?
-* Outside of your team, who has given you the most help this year? How?
-* Who have you helped this season?
-* What have been the top priorities for your team this year?
-* How did you establish them?
-* What has your team focused on improving this year?
-* How has your team spread the FIRST Core Values in your school? In the community?
-* Tell us how your team has demonstrated Gracious Professionalism® and/or Coopertition®.
-* Has your team done any community outreach?
-* Does your team have any involvement with FIRST® Tech Challenge or FIRST® LEGO® League?
-* How does your team support FIRST core values?
-* How does your team integrate imagery and branding?
-* How does your team find and “Thank” your sponsors/supporters?
-* How does your team keep students, mentors, and sponsors actively engaged?
-* How does your team celebrate success and document lessons learned to prevent repeating mistakes?
-* Describe what your team does related to environmental sustainability.
-* How does your team budget for the season?
-* How does your team ensure there’s funds/resources available for future seasons?
-* Do you have a succession plan? Can you describe it?
-* Did your team discuss potential risks for the season? Describe your contingency plan.
-* How do you ensure that your team is following correct safety practices?
+Team Identity & Vision
+
+* Describe your team in one sentence
+* What problem in your community does your team exist to solve?
+* What makes your team uniquely positioned to create impact?
+* If your team disappeared tomorrow, what would your community lose?
+* How do you define “impact”?
+* What is your long-term vision beyond building robots?
+* How do you measure whether you’re achieving your mission?
+* How has your definition of success evolved over time?
+
+Outreach & Community Impact
+
+* What outreach initiative are you most proud of and why?
+* How do you ensure your outreach is meaningful rather than one-time events?
+* Who is your target audience and why did you choose them?
+* What community need did you identify, and how did you verify it?
+* How do you evaluate the effectiveness of your outreach programs?
+* Can you share a story of one individual impacted by your team?
+* What partnerships have been most critical to your outreach success?
+* How do you adapt outreach for different age groups or communities?
+* How do you ensure your programs are accessible to all students?
+* What outreach effort required the most iteration? What changed?
+
+FIRST Expansion & Mentorship
+
+* How have you increased participation in FIRST programs in your area?
+* What does your FLL/FTC mentoring structure look like?
+* How do you train mentors to ensure quality support?
+* How do you transition FLL or FTC students into FRC?
+* What systems ensure those programs are sustainable without your constant involvement?
+* How do you support teams beyond technical help?
+* What challenges have you faced while expanding FIRST locally?
+* How do you collaborate rather than compete with neighboring teams?
+
+Sustainability & Infrastructure
+
+* What systems have you built that will outlast current student leaders?
+* How do you document processes for future members?
+* What would happen if key mentors left?
+* How do you protect institutional knowledge?
+* What percentage of your funding is recurring vs. one-time?
+* How do you diversify funding sources?
+* What risks threaten your long-term sustainability?
+* How do you manage growth without losing culture?
+
+Data & Impact Measurement
+
+* What metrics do you track to evaluate success?
+* How do you collect and store outreach data?
+* How has data changed a decision your team made?
+* Do you track longitudinal impact (years later)? How?
+* How do you ensure reported numbers are accurate?
+* What qualitative feedback have you received?
+
+Inclusion & Culture
+
+* How do you ensure new members feel welcomed and valued?
+* What steps have you taken to increase diversity on your team?
+* How do you support students who have never coded or built before?
+* How do you prevent burnout?
+* How do you resolve conflict within the team?
+* What does Gracious Professionalism® look like in action on your team?
+* How do you create leadership opportunities for younger students?
+
+Leadership & Student Ownership
+
+* How are decisions made on your team?
+* What does student-led mean in practice?
+* How do underclassmen transition into leadership roles?
+* How do you train new leaders?
+* What was a difficult leadership decision this year?
+* How do you balance mentor guidance with student autonomy?
+
+Advocacy & Broader Influence
+
+* Have you engaged with school boards, legislators, or industry leaders?
+* What policy or systemic change are you working toward?
+* How have you amplified student voice outside your team?
+* How do you advocate for STEM access in underserved communities?
+* What ripple effects has your advocacy created?
+
+Reflection & Growth
+
+* What failed this year, and what did you learn from it?
+* How have you improved since last season?
+* What is one assumption your team challenged this year?
+* What would you scale if given unlimited resources?
+* What would you cut if forced to simplify?
+* What was your biggest internal challenge?
+
+Personal Impact
+
+* How has being on this team changed your future plans?
+* What skill did you gain that you didn’t expect?
+* When did you feel most proud this season?
+* What moment best represents your team’s culture?
+* What will you miss most after graduating?
+
+Strategic & Curveball Questions
+
+* Why should you win the Impact Award over every other team here?
+* If you had to defend one program as your most impactful, which would it be and why?
+* What part of your submission do you think judges might misunderstand?
+* If we visited your community, what would we see as evidence of your impact?
+* What is one misconception about your team?
+* If another team wanted to replicate your success, what would they need first?
+* What question do you wish we had asked?
 
 ## Questions Specific to Team 167
 
