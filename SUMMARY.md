@@ -18,6 +18,7 @@
     * [Junior Bots Challenge](outreach/summer-camp-planning-guide/junior-bots-challenge.md)
     * [Junior Game Jam](outreach/summer-camp-planning-guide/junior-game-jam.md)
     * [Mini Bots Workshops](outreach/summer-camp-planning-guide/mini-bots-workshops.md)
+  * [Early Ed Days](outreach/early-ed-days.md)
   * [Girl Scouts Robotics Badge](outreach/girl-scouts-robotics-badge/README.md)
     * [Programming Robots](outreach/girl-scouts-robotics-badge/programming-robots.md)
     * [Designing Robots](outreach/girl-scouts-robotics-badge/designing-robots.md)
