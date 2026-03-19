@@ -158,6 +158,7 @@ The following are questions that Team 167 has been asked in judging. They may no
 * Did you build Maverick's car or just modify it using the old design?
 * What is your biggest obstacle for outreach?
 * What are you most proud of relating to your team?
+* Is Tada the name of a person?
 * What are your Junior Bots goals for next year?
 * How are you maintaining good relationships with your sponsors?
 
