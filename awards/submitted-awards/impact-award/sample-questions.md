@@ -155,6 +155,11 @@ The following are questions that Team 167 has been asked in judging. They may no
   * How do you handle the administrative burden of such a large project?
   * In order for others to benefit it must be searchable. Do you have stats on what information people are looking for?
 * How did you collaborate with education professionals in the creation of your preschool visit curriculum?
+* Did you build Maverick's car or just modify it using the old design?
+* What is your biggest obstacle for outreach?
+* What are you most proud of relating to your team?
+* What are your Junior Bots goals for next year?
+* How are you maintaining good relationships with your sponsors?
 
 ## Questions Collected from Other Teams
 
